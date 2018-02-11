@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "312681098543",
+    "firebase_url": "https://curso-fec70.firebaseio.com",
+    "project_id": "curso-fec70",
+    "storage_bucket": "curso-fec70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312681098543:android:eed33c64881163c9",
+        "android_client_info": {
+          "package_name": "com.example.mateus.curso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312681098543-4cf2hveueks8gcn82fa52bn3dpetunbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mateus.curso",
+            "certificate_hash": "a75137ca9eeae4f78b85a47de0483476d99bf157"
+          }
+        },
+        {
+          "client_id": "312681098543-enic6su4l9p2ffvvroo0sm9t7vk3akfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWwiApOYl7gAE3B-Mw3Q35hiuwzbXU_0o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312681098543-enic6su4l9p2ffvvroo0sm9t7vk3akfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
